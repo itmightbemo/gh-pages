@@ -4,9 +4,11 @@ body{
   background-image: url("test_pic_one.jpg");
   font-family: 'Josefin Sans', sans-serif;
 }
-.enter a{
-  position: relative;
-  vertical-align:middle;
+.enter{
+   position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
 }
 
 a{
