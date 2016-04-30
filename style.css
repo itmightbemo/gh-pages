@@ -1,4 +1,6 @@
 body{
+  color:white;
+  text-align:center;
   background-image: url("test_pic_one.jpg");
   font-family: 'Josefin Sans', sans-serif;
 }
