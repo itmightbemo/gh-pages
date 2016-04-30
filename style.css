@@ -6,7 +6,7 @@ body{
 }
 .enter a{
   position: relative;
-  margin-top:50%;
+  vertical-align:middle;
 }
 
 a{
