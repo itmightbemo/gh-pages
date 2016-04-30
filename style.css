@@ -7,7 +7,8 @@ body{
 div .enter{
   margin-top:50%;
 }
-div .enter a{
+
+a{
   font-style:bold;
   text-decoration:none;
 }
