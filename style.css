@@ -4,3 +4,10 @@ body{
   background-image: url("test_pic_one.jpg");
   font-family: 'Josefin Sans', sans-serif;
 }
+div .enter{
+  margin-top:50%;
+}
+div .enter a{
+  font-style:bold;
+  text-decoration:none;
+}
