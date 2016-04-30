@@ -1,20 +1,10 @@
-@keyframes slide{
-  from{
-    background-image: url("test_pic_one.jpg");
-  }
-  to{
-    background-image: url("noice.jpg");
-  }
-}
+
 body{
   color:white;
   text-align:center;
   background-image: url("noice.jpg");
   background-repeat:no-repeat;
   font-family: 'Josefin Sans', sans-serif;
-  transition: all 10s ease;
-  animation-name:slide;
-  animation-duration:10s;
 }
 div .enter{
    position: absolute;
