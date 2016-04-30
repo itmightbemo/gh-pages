@@ -1,15 +1,15 @@
 @keyframes slide{
   from{
-    background-image: url("test_pic_one.jpg")
+    background-image: url("test_pic_one.jpg");
   }
   to{
-    background-image: url("noice.jpg")
+    background-image: url("noice.jpg");
   }
 }
 body{
   color:white;
   text-align:center;
-  background-image: url("test_pic_one.jpg")
+  background-image: url("test_pic_one.jpg");
   background-repeat:no-repeat, no-repeat, no-repeat;
   font-family: 'Josefin Sans', sans-serif;
   transition: all 10s ease;
